@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+
+img {
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    border: 3px solid #474747;
+    padding: 3px
+}
