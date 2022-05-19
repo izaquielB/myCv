@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    background-color: #e6e6e6;
+    color: #333333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+img {
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    border: 3px solid #66BFBF;
+    padding: 3px
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1, h2, h3 {
+    color: #66BFBF;
+}
